@@ -1,0 +1,5 @@
+{{#user}}
+Name: Mudit Jain
+Skills: HTML, CSS, JS, Java, SQL , React.js
+Email: jainmudit68@gmail.com
+{{/user}}
